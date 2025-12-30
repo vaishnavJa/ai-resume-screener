@@ -113,7 +113,7 @@ ai-resume-screener/
 ```bash
 
 # FOR front-end solution
-streamlit run ai-resume-screener/src/app.py
+streamlit run src/app.py
 
 # For CLI 
 python src\main.py --model-name gemma3:12b 
