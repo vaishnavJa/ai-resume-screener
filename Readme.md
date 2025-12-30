@@ -116,7 +116,7 @@ ai-resume-screener/
 streamlit run src/app.py
 
 # For CLI 
-python src\main.py --model-name gemma3:12b 
+python src\main.py --model_name gemma3:12b 
   --debug_mode True 
   --job_description_path dataset\data1\JD.txt 
   --resume_folder_path dataset\data1\resume
