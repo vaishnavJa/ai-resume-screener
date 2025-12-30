@@ -12,7 +12,6 @@ An intelligent resume screening system that uses local LLMs (via Ollama) to eval
 - **AI-Powered Evaluation**: Uses local LLMs (Gemma, Llama, Qwen) for resume analysis
 - **Comprehensive Scoring**: Multi-factor evaluation (skills, experience, production expertise, domain fit)
 - **Interactive UI**: Clean Streamlit interface for easy interaction
-- **Batch Processing**: Evaluate multiple candidates simultaneously
 - **Detailed Reports**: Skills matching, explanations, and recommendations
 - **Export Options**: JSON and detailed text reports
 - **Privacy-First**: 100% local processing, no data leaves your machine
@@ -76,25 +75,11 @@ ollama serve
 
 ```
 
-to use a new ollam model, change the model name field in app.py
+to use a new ollam model
 
 ```bash
 ollama pull <model>
-
-
-with st.sidebar:
-    st.header("📋 Configuration")
-    
-    # Model Selection
-    st.subheader("🤖 Select Model")
-    available_models = [
-        'gemma3:27b',
-        'gemma3:12b',
-        'qwen3:8b',
-        <model>
-    ]
 ```
-
 
 ## 📁 Project Structure
 
@@ -103,10 +88,8 @@ ai-resume-screener/
 ├── src
 │  ├── app.py                      # Streamlit frontend
 │  ├── resume_evaluator.py         # Core evaluation logic
+│  ├── main.py                     # evaluation in CLI
 │  └── utils.py                    # Utility functions
-├── requirements.txt            # Python dependencies
-├── README.md                   # This file
-├── .gitignore                  # Git ignore file
 ├── dataset/
 │   ├──data1       
 │   │  ├── JD.txt                  # Sample job description
@@ -114,21 +97,29 @@ ai-resume-screener/
 │   │      ├── resume_001.txt
 │   │      ├── resume_002.txt
 │   │      └── ...
-│   └──data1       
+│   └──data2       
 │       ├── JD.txt
 │       └─ ...
-└── docs/
-   ├── ARCHITECTURE.md         # System architecture
-   ├── PROMPT_ENGINEERING.md   # Prompt design documentation
-   └── EVALUATION_LOGIC.md     # Scoring methodology
+├── requirements.txt            # Python dependencies
+├── README.md                   # This file
+├── .gitignore                  # Git ignore file
+│
+└──prompt.md   # Prompt design documentation
 
 ```
 
 ## Usage
 
-
 ```bash
+
+# FOR front-end solution
 streamlit run ai-resume-screener/src/app.py
+
+# For CLI 
+python src\main.py --model-name gemma3:12b 
+  --debug_mode True 
+  --job_description_path dataset\data1\JD.txt 
+  --resume_folder_path dataset\data1\resume
 ```
 
 Then open your browser to `http://localhost:8501`
@@ -187,18 +178,6 @@ The system uses a weighted scoring algorithm:
 
 
 ## 🔧 Configuration
-
-### Model Selection
-
-Edit `app.py` or pass as parameter:
-
-```python
-available_models = [
-    'gemma3:12b',      # 12B parameters - balanced
-    'gemma3:27b',     # 27B parameters - best quality
-    'qwen3:7b'      # 8B parameters - alternative
-]
-```
 
 ### Scoring Weights
 
@@ -259,26 +238,6 @@ ollama pull gemma3:27b
 
 ## 🎨 Customization
 
-### Adding Custom Prompts
-
-Edit prompt templates in `resume_evaluator.py`:
-
-```python
-def create_evaluation_prompt(self, job_desc, resume_text):
-    # Modify prompt structure here
-    pass
-```
-
-### Adding New Models
-
-Add to model list in `app.py`:
-
-```python
-available_models = [
-    'your-custom-model:tag',
-    # ... existing models
-]
-```
 
 ### Custom Scoring Logic
 
