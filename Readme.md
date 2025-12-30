@@ -253,3 +253,5 @@ Plain text format. The system extracts:
 - Candidate name (from header)
 - Skills and technologies
 - Experience duration
+
+There are example samples in `dataset` folder
