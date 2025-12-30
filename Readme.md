@@ -119,7 +119,7 @@ streamlit run src/app.py
 python src\main.py --model_name gemma3:12b 
   --debug_mode True 
   --job_description_path dataset\data1\JD.txt 
-  --resume_folder_path dataset\data1\resume
+  --resume_folder_path dataset\data1\resumes
 ```
 
 Then open your browser to `http://localhost:8501`
