@@ -1,0 +1,19 @@
+Name: Emily Chen
+Title: Backend Developer
+
+Summary:
+Backend developer with nearly 5 years of experience building and maintaining web APIs and database-backed applications. Comfortable working in fast-paced teams and supporting production systems.
+
+Experience:
+Backend Developer | CloudApps | 2020–Present
+- Developed REST APIs using Node.js for internal and external services
+- Worked extensively with PostgreSQL for data storage and querying
+- Assisted in production deployments and bug fixing
+- Collaborated with frontend developers on feature requirements
+
+Junior Software Engineer | WebNest | 2019–2020
+- Implemented backend features under senior engineer guidance
+- Participated in code reviews and testing
+
+Skills:
+PostgreSQL, JavaScript, Node.js, REST APIs, Git

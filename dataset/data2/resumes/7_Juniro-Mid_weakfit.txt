@@ -1,0 +1,18 @@
+Name: Priya Nair
+Title: Software Developer
+
+Summary:
+Software developer with 3 years of experience building web applications and APIs.
+
+Experience:
+Software Developer | DevHouse | 2022–Present
+- Developed backend APIs using Node.js
+- Worked primarily with MongoDB and occasionally PostgreSQL
+- Built basic frontend components using React
+- Participated in production bug fixes and feature updates
+
+Junior Developer | DevHouse | 2021–2022
+- Assisted senior developers with implementation tasks
+
+Skills:
+JavaScript, Node.js, MongoDB, React, Git

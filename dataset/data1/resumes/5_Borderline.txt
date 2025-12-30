@@ -1,0 +1,18 @@
+Name: Emily Walker
+Title: Business Analyst
+
+Summary:
+Business analyst with experience supporting digital products through requirements gathering and stakeholder collaboration.
+
+Experience:
+Business Analyst | TechConsult | 2019–Present
+- Gathered business requirements and documented user stories
+- Worked with product and engineering teams on feature delivery
+- Supported UAT testing using Postman
+- Analysed user feedback and usage data
+
+Junior Analyst | TechConsult | 2017–2019
+- Assisted in documentation and reporting
+
+Skills & Tools:
+User Stories, REST APIs, JSON, Postman, Analytics

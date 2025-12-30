@@ -1,0 +1,17 @@
+Name: Ananya Gupta
+Title: Data Scientist
+
+Summary:
+Data professional with experience working on analytics, data pipelines, and machine learning models.
+
+Experience:
+Data Scientist | AnalyticsLab | 2018–Present
+- Built data pipelines using Python and SQL
+- Worked with relational databases for reporting and analysis
+- Developed predictive models for business insights
+
+Data Analyst | InsightCorp | 2016–2018
+- Created dashboards and reports using SQL
+
+Skills:
+Python, SQL, Machine Learning, Data Analysis

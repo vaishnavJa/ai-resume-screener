@@ -1,0 +1,45 @@
+Product Owner 
+
+Location: London Office (3 Days per week)
+
+
+The role:
+
+Yonda is looking for a Product Owner to join our fast-growing team reporting directly into our Head of Product.
+
+
+The Opportunity:
+
+This individual would join our Product team, playing a pivotal role in building, improving and shaping our product. Once onboarded, this individual would be able to develop ideas and features to innovate and optimise our product and to innovate our ways of working within Yonda.
+
+
+What you’ll do:
+
+Key Responsibilities:
+
+Feature Planning & Design: Take ownership of planning, designing (Features + wireframes), documenting new product features, working closely with stakeholders to define requirements and user flows.
+Customer Collaboration: Collaborate with Customer Success to gather and synthesize feedback, translating user insights into structured product requirements and feature suggestions.
+First-Line Support: Address and resolve support tasks efficiently, serving as the first point of contact for product-related issues acting as the liaison between operations & engineering.
+Product Marketing Support: Contribute to new feature launches by drafting release notes, building product tours (e.g. Userpilot) and providing the marketing team with relevant info.
+User Education: Write clear, user-friendly guides, help centre articles, and record loom videos to ensure users can easily understand and use new features.
+
+
+Who you are:
+
+Essential Skills & Experience:
+
+2-4 years’ experience working with B2B products
+Experience designing wireframes
+Experience transforming customer insights, analytics and feedback into user stories
+Experience researching and using AI tools to optimise internal workflows
+Able to guide prioritisation based on data-driven decision making
+Comfortable with Rest API’s, JSON, and testing tools like Postman (not to engineering standard)
+Knowledge or exposure to accounting, tax, financial services
+Exposure to tools such as Mixpanel, Userpilot
+
+
+Desirable skills:
+
+Highly organised and fast-paced
+High-agency mindset, able to take initiative and ownership
+Strong communication and collaboration skills

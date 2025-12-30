@@ -1,0 +1,23 @@
+ABC is a leading platform for planning tournaments and leagues. Our software helps organizers run their sports events from registration all the way to the award ceremony. With more than 300,000 organizers using ABC, we connect millions of players and fans around the world every year.
+
+What will you be working on
+As a senior developer with a backend focus, you’ll play a key role in shaping the future of our apps. You’ll help design and build a scalable product that runs smoothly in production. You’ll work closely with a frontend developer and product manager, and actively contribute to new features, technical decisions, and our roadmap.
+
+Your work will include
+- Designing and optimizing our Postgres database via Supabase (schemas, queries, RLS)
+- Building a robust, secure, and well-tested backend architecture
+- Making sure our apps keep running smoothly in production deployments, monitoring, logging, performance
+- Integrating external services for payments, invoicing, and other third-party connections
+- Picking up end-to-end features, without needing everything to be pixel-perfect in the frontend
+- Developing a public API
+
+What do we expect from you?
+You enjoy working in a startup environment and like taking ownership. In addition, you have:
+- 5+ years of work experience
+- Strong experience with Postgres
+- Experience building REST APIs
+- Experience with JavaScript/TypeScript
+- Experience with React/Next.js or similar JS frameworks
+- Experience running applications in production
+- Interest in AI tools to support your day-to-day work and enthusiasm for shaping AI/LLM features in our product
+- Affinity with sports

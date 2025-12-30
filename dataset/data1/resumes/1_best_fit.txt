@@ -1,0 +1,22 @@
+Name: Sarah Mitchell
+Title: Product Owner
+
+Summary:
+Product Owner with 4 years of experience working on B2B SaaS products in fintech and compliance-driven environments. Strong background in feature discovery, customer feedback synthesis, and data-informed prioritisation.
+
+Experience:
+Product Owner | FinServe SaaS | 2021–Present
+- Owned end-to-end feature planning including wireframes, PRDs, and acceptance criteria
+- Worked closely with Customer Success to translate user feedback into product improvements
+- Acted as first-line support for product-related issues, triaging with engineering
+- Led feature launches including release notes, product tours via Userpilot, and internal enablement
+- Wrote help centre documentation and recorded Loom walkthroughs for new features
+- Used Mixpanel to analyse feature usage and guide prioritisation decisions
+- Researched and piloted AI tools to streamline internal workflows and reporting
+
+Associate Product Manager | LedgerTech | 2019–2021
+- Supported senior PMs with backlog grooming and user story writing
+- Conducted user interviews and analysed analytics data
+
+Skills & Tools:
+Wireframing (Figma), User Stories, REST APIs, JSON, Postx`man, Mixpanel, Userpilot, AI tools, B2B SaaS

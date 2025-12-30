@@ -1,0 +1,22 @@
+Name: Sarah Klein
+Title: Backend Engineer
+
+Summary:
+Backend engineer with 6 years of experience building APIs and production systems using PostgreSQL and JavaScript.
+
+Experience:
+Backend Engineer | SaaSFlow | 2020–Present
+- Built REST APIs using Node.js and Express
+- Designed and maintained Postgres databases
+- Integrated payment services and invoicing tools
+- Monitored production systems and handled on-call rotations
+
+Full Stack Developer | StartupX | 2017–2020
+- Worked with React and Next.js on frontend features
+- Collaborated closely with product managers
+
+Skills:
+PostgreSQL, JavaScript, TypeScript, Node.js, REST APIs, React, Next.js, Docker
+
+Notes:
+- Interested in using AI tools to improve developer productivity

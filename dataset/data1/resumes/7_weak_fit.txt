@@ -1,0 +1,17 @@
+Name: Hannah Lee
+Title: UX Designer
+
+Summary:
+UX designer with experience designing user interfaces for web applications.
+
+Experience:
+UX Designer | DesignStudio | 2019–Present
+- Designed wireframes and user flows for B2B products
+- Collaborated with product managers on feature concepts
+- Conducted usability testing
+
+Junior Designer | DesignStudio | 2017–2019
+- Assisted with UI design tasks
+
+Skills & Tools:
+Figma, Wireframing, User Research

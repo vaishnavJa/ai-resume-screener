@@ -1,0 +1,26 @@
+Name: John Martinez
+Title: Senior Backend Engineer
+
+Summary:
+Senior backend-focused engineer with 7+ years of experience building scalable SaaS products in production environments. Strong expertise in Postgres, Supabase, and API-driven systems. Passionate about sports technology.
+
+Experience:
+Senior Backend Engineer | SportsTech Co | 2019–Present
+- Designed and optimized Postgres schemas using Supabase, including Row Level Security (RLS)
+- Built and maintained REST APIs used by 500k+ monthly users
+- Integrated Stripe for payments and automated invoicing workflows
+- Implemented monitoring and logging using DataDog and Sentry
+- Developed and maintained a public API for third-party partners
+- Collaborated closely with frontend developers using React and Next.js
+
+Backend Engineer | EventSoft | 2016–2019
+- Built Node.js backend services with PostgreSQL
+- Deployed production systems on AWS
+- Worked on end-to-end features with product managers
+
+Skills:
+PostgreSQL, Supabase, JavaScript, TypeScript, Node.js, REST APIs, React, Next.js, Stripe, Docker, AWS, Monitoring, Logging
+
+Other:
+- Former semi-professional football player
+- Built a side project for managing amateur leagues

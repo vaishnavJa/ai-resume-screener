@@ -1,0 +1,17 @@
+Name: Tom Wilson
+Title: Frontend Engineer
+
+Summary:
+Frontend-focused engineer with experience building modern web interfaces for production applications.
+
+Experience:
+Frontend Engineer | UIWorks | 2019–Present
+- Built and maintained user interfaces using React and Next.js
+- Collaborated with backend teams integrating REST APIs
+- Improved performance and usability of customer-facing applications
+
+Web Developer | CreativeLabs | 2017–2019
+- Developed responsive websites using JavaScript and CSS
+
+Skills:
+JavaScript, TypeScript, React, Next.js, HTML, CSS

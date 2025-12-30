@@ -1,0 +1,20 @@
+Name: Daniel Foster
+Title: Product Owner
+
+Summary:
+Product Owner with experience building and scaling B2B products, focusing on customer feedback, feature delivery, and product education.
+
+Experience:
+Product Owner | CloudFinance | 2020–Present
+- Planned and documented new features, including user flows and wireframes
+- Collaborated with Customer Success to gather insights and improve onboarding flows
+- Supported first-line product queries and coordinated fixes with engineering
+- Drafted release notes and supported marketing during feature launches
+- Created help articles and internal documentation
+- Used Mixpanel and internal dashboards to guide prioritisation
+
+Product Analyst | CloudFinance | 2018–2020
+- Analysed user behaviour and supported roadmap planning
+
+Skills & Tools:
+Figma, Product Documentation, REST APIs, JSON, Postman, Mixpanel, Userpilot

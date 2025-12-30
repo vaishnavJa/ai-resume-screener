@@ -1,0 +1,17 @@
+Name: Mark Thompson
+Title: IT Support Specialist
+
+Summary:
+IT support professional with experience providing technical assistance and maintaining internal systems.
+
+Experience:
+IT Support Specialist | HelpDesk Co | 2017–Present
+- Provided technical support for hardware and software issues
+- Managed user accounts and system configurations
+- Documented support procedures and solutions
+
+IT Technician | Local Services | 2015–2017
+- Installed and maintained workstations and network equipment
+
+Skills:
+Windows Administration, IT Support, Networking Basics

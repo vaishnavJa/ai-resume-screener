@@ -1,0 +1,19 @@
+Name: Tom Reynolds
+Title: Product Operations Specialist
+
+Summary:
+Product operations professional with experience supporting B2B SaaS products through feature documentation, customer support, and analytics.
+
+Experience:
+Product Operations Specialist | PayFlow | 2020–Present
+- Supported product owners in feature planning and backlog management
+- Acted as first-line support for product issues
+- Created release notes, help centre articles, and user guides
+- Collaborated with Customer Success to collect feedback
+- Used analytics tools to track feature adoption
+
+Customer Success Analyst | PayFlow | 2018–2020
+- Worked closely with customers to understand pain points
+
+Skills & Tools:
+Product Documentation, Analytics, REST APIs, JSON, Postman, Mixpanel

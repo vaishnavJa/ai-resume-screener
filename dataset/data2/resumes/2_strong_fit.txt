@@ -1,0 +1,23 @@
+Name: David Okonkwo
+Title: Senior Software Engineer (Backend)
+
+Summary:
+Backend-focused engineer with 8 years of experience designing production-grade systems and APIs. Strong database and infrastructure background.
+
+Experience:
+Senior Software Engineer | ScaleApps | 2018–Present
+- Designed Postgres schemas and optimized queries for high-traffic applications
+- Built secure REST APIs in Node.js and TypeScript
+- Integrated third-party services including Stripe and SendGrid
+- Maintained production deployments with logging, monitoring, and alerting
+- Led development of a public API consumed by external developers
+
+Software Engineer | WebCore | 2015–2018
+- Full-stack development using JavaScript and React
+- Worked on feature delivery end-to-end
+
+Skills:
+PostgreSQL, JavaScript, TypeScript, Node.js, REST APIs, React, Docker, AWS, Monitoring
+
+Interests:
+- Recreational basketball player

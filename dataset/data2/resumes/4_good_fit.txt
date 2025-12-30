@@ -1,0 +1,18 @@
+Name: Ahmed Hassan
+Title: Full Stack Developer
+
+Summary:
+Full stack developer with 5+ years of experience building web applications and APIs.
+
+Experience:
+Full Stack Developer | WebStart | 2019–Present
+- Built backend APIs using Node.js and PostgreSQL
+- Developed frontend features using React
+- Deployed applications to production and monitored performance
+- Worked on integrations with third-party services
+
+Skills:
+PostgreSQL, JavaScript, Node.js, REST APIs, React, Docker
+
+Other:
+- Casual sports enthusiast

@@ -1,0 +1,24 @@
+Name: Alex Morgan
+Title: Frontend Developer
+
+Summary:
+Frontend developer with over 4 years of experience building and maintaining web applications. Strong focus on user interface development, performance, and usability in SaaS environments.
+
+Experience:
+Frontend Developer | WebApps Ltd | 2019–Present
+- Developed and maintained user-facing features using React and TypeScript
+- Integrated frontend applications with REST APIs
+- Collaborated with designers and product managers to implement UI requirements
+- Improved application performance and accessibility
+- Participated in sprint planning and code reviews
+
+Junior Frontend Developer | WebApps Ltd | 2017–2019
+- Implemented UI components based on design specifications
+- Fixed UI bugs and assisted with frontend testing
+
+Education:
+BSc in Computer Science
+University of Manchester | 2014–2017
+
+Skills & Tools:
+JavaScript, TypeScript, React, REST APIs, HTML, CSS, Git, Jira

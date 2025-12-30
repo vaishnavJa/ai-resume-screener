@@ -1,0 +1,20 @@
+Name: Priya Shah
+Title: Product Manager
+
+Summary:
+Product-focused professional with 3 years of experience working on B2B SaaS platforms, bridging customer needs and engineering delivery.
+
+Experience:
+Product Manager | SaaSWorks | 2021–Present
+- Owned feature planning and documentation for customer-facing features
+- Translated feedback from Customer Success into structured user stories
+- Assisted with product support and issue triaging
+- Worked on release communications and internal product training
+- Built wireframes for new workflows
+- Explored AI tools to improve documentation and internal processes
+
+Business Analyst | SaaSWorks | 2019–2021
+- Gathered requirements and supported product delivery
+
+Skills & Tools:
+Wireframing, User Stories, Analytics, REST APIs, JSON, AI productivity tools

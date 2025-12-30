@@ -1,0 +1,19 @@
+Name: Lucas Brown
+Title: Software Engineer
+
+Summary:
+Software engineer with experience developing backend services and maintaining cloud-hosted applications.
+
+Experience:
+Software Engineer | TechSolutions | 2021–Present
+- Built backend services primarily using Python
+- Worked with relational databases including PostgreSQL
+- Supported deployment and monitoring of production systems
+- Collaborated with cross-functional teams to deliver features
+
+Software Engineer Intern | TechSolutions | 2020–2021
+- Assisted with backend development tasks
+- Wrote unit tests and documentation
+
+Skills:
+Python, PostgreSQL, REST APIs, Docker, Linux

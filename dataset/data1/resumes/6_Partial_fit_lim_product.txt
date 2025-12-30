@@ -1,0 +1,18 @@
+Name: Lucas Green
+Title: Customer Success Manager
+
+Summary:
+Customer Success Manager with experience working closely with product teams to improve B2B SaaS platforms.
+
+Experience:
+Customer Success Manager | SaaSPlus | 2020–Present
+- Gathered customer feedback and shared insights with product teams
+- Assisted with feature rollouts and customer education
+- Helped create help articles and onboarding materials
+- Used analytics dashboards to track customer usage
+
+Customer Support Specialist | SaaSPlus | 2018–2020
+- Responded to product-related support tickets
+
+Skills & Tools:
+Customer Feedback, Documentation, Analytics, SaaS Platforms
